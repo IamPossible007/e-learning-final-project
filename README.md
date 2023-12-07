@@ -1,4 +1,4 @@
-# Auto Finance 💰🚗
+# Elearning
 
 > This is a static website built for learning purposes, focusing on finance domain. It showcases various features and information related to auto financing.
 
