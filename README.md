@@ -2,9 +2,6 @@
 
 > This is a static website built for learning purposes, focusing on finance domain. It showcases various features and information related to auto financing.
 
-Demo : [Auto Finance Demo](https://autofinance.vercel.app/)
-
-![auto-finance](https://github.com/SSK-14/Auto-Finance/assets/45158568/e0fcfc07-be67-43e4-a165-d9dd25aa5641)
 
 
 ## Technologies Used 🛠️
