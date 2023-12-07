@@ -16,12 +16,12 @@ The project utilizes the following technologies:
 
 1. Clone the project:
 ```
-git clone https://github.com/SSK-14/Auto-Finance.git
+
 ```
 
 2. Enter the project folder:
 ```
-cd Auto-Finance
+
 ```
 
 3. Install dependencies:
