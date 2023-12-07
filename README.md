@@ -15,24 +15,18 @@ The project utilizes the following technologies:
 ## Getting Started 🚀
 
 1. Clone the project:
-```
-
-```
 
 2. Enter the project folder:
-```
 
-```
 
 3. Install dependencies:
-```
+
 npm install
-```
+
 
 4. Run the application:
-```
+
 npm run dev
-```
 
 ## Contributing 🤝
 Contributions to this project are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the project's GitHub repository.
